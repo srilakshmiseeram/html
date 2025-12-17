@@ -1,0 +1,27 @@
+#h3{
+    color: #846666;
+    text-align: left;
+    text-decoration: underline;
+}
+#h1{
+    text-align: center;
+    text-decoration: overline;
+}
+#h2{
+    text-align: right;
+    text-decoration: line-through;
+}
+.a{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 300%;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.b{
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: lowercase;
+}
+.c{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+}
